@@ -9,7 +9,6 @@
 
   - 🌱 I’m currently studyng Analyse and development of systems on universy Positivo!
 
-  - 🔭 I am looking for my first job opportunity on tecnology.
 </p>
 
 <!-- Dropdown -->
